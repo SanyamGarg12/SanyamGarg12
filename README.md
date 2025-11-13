@@ -2,13 +2,11 @@
   <b><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Sanyam+Garg!;Full-Stack+Dev+%7C+ML+Enthusiast+%7C+Code+Nerd;Welcome+to+my+GitHub+Profile!" alt="Typing animation" /></b>
 </p>
 
----
 
 <p align="center">
   <b>💻 Developer | 🌐 Full-Stack Engineer | 🤖 ML Enthusiast | ⚔️ Competitive Programmer</b>
 </p>
 
----
 
 <h2 align="center" style="color:#FFD700;">🚀 About Me</h2>
 
@@ -19,7 +17,6 @@
 - 📬 Reach me → **sanyam22448@iiitd.ac.in**
 - 🧩 Currently diving deep into **system design**, **AI agents**, and **Dockerized deployments**.
 
----
 
 <h2 align="center" style="color:#FFD700;">⚙️ Tech Stack</h2>
 
@@ -47,7 +44,6 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80"/>
 </p>
 
----
 
 <h2 align="center" style="color:#FFD700;">📈 GitHub Analytics</h2>
 
@@ -64,13 +60,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SanyamGarg12&theme=radical&no-frame=true&row=1&column=5" />
 </p>
 
----
 
 <h2 align="center" style="color:#FFD700;">Hacktoberfest 2026 </h2>
 
 [![An image of @sanyamgarg12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyamgarg12)](https://holopin.io/@sanyamgarg12)
 
----
 <h2 align="center" style="color:#FFD700;">🌐 Connect with Me</h2>
 
 <p align="center">
@@ -80,7 +74,6 @@
   <a href="mailto:sanyam22448@iiitd.ac.in"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 </p>
 
----
 
 <h3 align="center" style="color:#FFD700;">✨ Let's Build Something Amazing Together 🚀</h3>
 
