@@ -61,7 +61,7 @@
 </p>
 
 
-<h2 align="center" style="color:#FFD700;">Hacktoberfest 2026 </h2>
+<h2 align="center" style="color:#FFD700;">Hacktoberfest 2025 </h2>
 
 [![An image of @sanyamgarg12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanyamgarg12)](https://holopin.io/@sanyamgarg12)
 
